@@ -1,0 +1,44 @@
+name: santbanisearcher
+description: "just search it"
+
+publish_to: 'none'
+
+version: 3.0.2+19
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  share_plus: ^13.2.0
+  scrollable_positioned_list: ^0.3.8
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/icon/
+    
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  web:
+    generate: true
+    image_path: "assets/icon/icon.png"
+    background_color: "#FAF7F2"
+    theme_color: "#5B2E2E"
+
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "#FAF7F2"
+  adaptive_icon_foreground: "assets/icon/icon.png"
