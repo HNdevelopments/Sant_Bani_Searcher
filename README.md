@@ -1,32 +1,40 @@
-# Sant_Bani_Searcher
+# Sant Bani Searcher — Remake
 
-So hey everyone I know many of you will not get this project and but as you are here read it .
-I discovered that my users were looking for quotes in books manually and no digital version was available so i made them a digital book in which they can search , read , understand and share.
+##  The Story
 
+Hi, i am Hirdey, a BTech 1st sem student making remake of my first app shipped on Play Store 1 May 2025.
 
-I know it is not that cool but i got 4K active Users praising this every day.
+I digitalize a book known as **Sarbachan Snagrah** which is in simple word collection of some spiritual long quotes and their meaning. And as I said I digitalize it, I mean it. You cannot find it online to just scrap off all 6500 quotes, and in total 39k lines of data is typed before Hack Club, otherwise easy 50h plus.
 
-# Tech Stack
--just used flutter and Chat GPT 
+I used AI to discuss new UI theme, color palette, potential user view fixes so my app looks clean and minimal and also easy to use.
 
-# Features
--search
--Read
--Understand
--See Source 
--Share
+##  The Numbers
 
-#  How to Run It
-if you are from india here is the app link(android only , ios people please refer web link)-
+My app niche is pretty small around 7–8k and I captured around 4.97k users up to date, in which I got 3k active devices and average 15 users new daily just on the app.
 
-https://play.google.com/store/search?q=sant%20bani%20seacher&c=apps&hl=en_IN
+##  Try It Out
 
-if you're not from india use the web link given below -
-https://santbanisearcher.hnlogix-dev.workers.dev
+If you are actually putting some time, try it. I am attaching a link as I just restricted app for India only, but if you are from India, just go for **SANT BANI SEARCHER** on Play Store. Rest use the **Try Project** button. or link - https://santbanisearcher.hnlogix-dev.workers.dev/
 
-if you want to run through code in you pc just set up flutter and pull this repo and just run it is very simple.
+## Tech Stack
 
-Thanks For Reading and please give me star 
+- **Flutter** — for code
+- **JSON** — to organise all of its data
 
+##  Features
 
+- Get source of the quotes
+- Search across them mainly in Hindi and some in Hinglish
+- Share it to your workmates on one click
 
+##  Try the Search
+
+If you are looking forward to search, type:
+
+`RADHASWAMI`
+
+To see real-time filtering.
+
+## Thank You
+
+Thank you so much for investing your time.
